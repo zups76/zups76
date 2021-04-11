@@ -1,0 +1,19 @@
+{
+  "name": "zups76",
+  "version": "1.0.0",
+  "description": "- 👋 Hi, I’m @zups76\r - 👀 I’m interested in ... Free life\r - 🌱 I’m currently learning ... Git, Vue\r - 💞️ I’m looking to collaborate on ...\r - 📫 How to reach me ... zups76@gmail.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zups76/zups76.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zups76/zups76/issues"
+  },
+  "homepage": "https://github.com/zups76/zups76#readme"
+}
