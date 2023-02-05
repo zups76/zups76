@@ -3,3 +3,5 @@
 - 🌱 I’m currently learning ... Git, Vue
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... zups76@gmail.com
+
+https://www.youtube.com/watch?v=yP5DKzriqXA
