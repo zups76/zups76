@@ -9,8 +9,8 @@ c.fillRect(0, 0, canvas.width, canvas.height)
 
 
 const offset = {
-    x: -480,
-    y: -288
+    x: -540,
+    y: -615
 }
 
 
@@ -33,7 +33,7 @@ class Boundary {
         this.height = 48
     }
     draw() {
-        c.fillStyle = 'rgba(255, 255, 255, 0)'
+        c.fillStyle = 'rgba(255, 255, 255, 0.7)'
         c.fillRect(this.position.x, this.position.y, this.width, this.height)
     }
 }
@@ -46,7 +46,7 @@ colMap.forEach((row, i) => {
                 new Boundary({
                     position: {
                         x: j * Boundary.width + offset.x,
-                        y: i * Boundary.height + offset.y + 20
+                        y: i * Boundary.height + offset.y
                     }
                 })
             )
