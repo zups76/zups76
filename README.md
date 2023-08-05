@@ -4,4 +4,4 @@
 - 💞️ I’m looking to collaborate on ... zups76@gmail.com
 - 📫 How to reach me ... zups76@gmail.com
 
-- https://www.youtube.com/@SeoulCountryBoy
+- https://www.youtube.com/@zero_hong
